@@ -6,9 +6,13 @@ Full Stack Web Developer
 
 I am a full-stack web developer with expertise in both front-end and back-end technologies. I have experience building interactive and user-friendly websites using HTML, CSS, JavaScript, and frameworks such as React. I also have skills in server-side languages like Python and JavaScript and am proficient in using databases and server-side technologies like MySQL, PostgreSQL, and MongoDB. I can develop and maintain APIs and am comfortable with server infrastructure and deployment processes. In addition, I have a strong understanding of web accessibility and usability principles and can create clear and complete documentation for my projects.
 
-*   🌍  I'm based in Sri Lanka
-*   ✉️  You can contact me at [hiraan@gmail.com](mailto:hiraan@gmail.com)
-*   🧠  I'm learning Machine Learning### Skills 
+* 🌍  I'm based in Sri Lanka
+* ✉️  You can contact me at [hiraan@gmail.com](mailto:hiraan@gmail.com)
+* 🧠  I'm learning Machine Learning
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -32,12 +36,12 @@ I am a full-stack web developer with expertise in both front-end and back-end te
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/hiraan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/hiraan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/hiraan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiraan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/hiafraan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hiafraan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/hiafraan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiafraan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
