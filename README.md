@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afraan Muhammed
 =======================================================================================================================================
 
-Full Stack Web Developer
+Full Stack Web Developer and Security Specialist
 ------------------------
 
 I am a full-stack web developer with expertise in both front-end and back-end technologies. I have experience building interactive and user-friendly websites using HTML, CSS, JavaScript, and frameworks such as React. I also have skills in server-side languages like Python and JavaScript and am proficient in using databases and server-side technologies like MySQL, PostgreSQL, and MongoDB. I can develop and maintain APIs and am comfortable with server infrastructure and deployment processes. In addition, I have a strong understanding of web accessibility and usability principles and can create clear and complete documentation for my projects.
