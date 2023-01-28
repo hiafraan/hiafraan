@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer and Security Specialist
 ------------------------
 
-I am a full-stack web developer with expertise in both front-end and back-end technologies. I have experience building interactive and user-friendly websites using HTML, CSS, JavaScript, and frameworks such as React. I also have skills in server-side languages like Python and JavaScript and am proficient in using databases and server-side technologies like MySQL, PostgreSQL, and MongoDB. I can develop and maintain APIs and am comfortable with server infrastructure and deployment processes. In addition, I have a strong understanding of web accessibility and usability principles and can create clear and complete documentation for my projects.
+I am a full-stack web developer with expertise in both front-end and back-end technologies. I have experience building interactive and user-friendly websites using HTML, CSS (Sass), JavaScript, and frameworks such as React (Redux, TypeScript, NextJs). I also have skills in server-side languages like Python (Flask, Django) and JavaScript (NodeJS, ExpressJS) and am proficient in using databases and server-side technologies like MySQL, PostgreSQL, and MongoDB. I can develop and maintain APIs and am comfortable with server infrastructure and deployment processes. In addition, I have a strong understanding of web accessibility and usability principles and can create clear and complete documentation for my projects. I also have skills in graphic design, video editing and 3D Blender to enhance the user experience.
 
 * ✉️  You can contact me at [hiafraan@gmail.com](mailto:hiafraan@gmail.com)
 * 🧠  A lifelong learner, currently learning machine learning.
