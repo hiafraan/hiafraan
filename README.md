@@ -1,15 +1,17 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afraan Muhammed
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is Afraan Muhammed
 
-## Full Stack Developer and Security Specialist
+## Full Stack Developer and Penetration Tester
 
-As a full-stack developer with expertise in both front-end and back-end technologies, I have experience building interactive and user-friendly websites using HTML, CSS (Sass), JavaScript, and frameworks such as React (Redux, TypeScript, Next.js). I also have skills in server-side languages like Python (Flask, Django) and JavaScript (Node.js, Express.js), and proficient in databases such as MySQL, PostgreSQL, and MongoDB. I have experience in developing and maintaining APIs, and expertise in server infrastructure and deployment processes, including Apache, Nginx, and WSGI servers like Gunicorn.
+As a full-stack developer with expertise in both front-end and back-end technologies, I have experience building interactive and user-friendly websites using HTML, CSS (Sass), JavaScript, and frameworks such as React (Redux). I also have skills in server-side languages like Python (Django), Java (Spring Boot) and JavaScript (Node.js, Express.js), and proficient in databases such as MySQL, PostgreSQL, and MongoDB. I have experience in developing and maintaining APIs, and expertise in server infrastructure and deployment processes, including Apache, Nginx, and WSGI servers like Gunicorn.
 
 In addition to my web development skills, I am also an experienced app developer using React Native, allowing me to create high-performance and visually stunning mobile applications for both iOS and Android devices. I have a strong understanding of web accessibility and usability principles and can create clear and complete documentation for my projects. I also have skills in graphic design, video editing, and 3D Blender to enhance the user experience.
+
+Furthermore, I have experience in ethical hacking and bug bounty, which enables me to identify potential security vulnerabilities and report them effectively. This skillset allows me to create more secure applications and ensure that they are protected against potential threats.
 
 Overall, I have the ability to create end-to-end solutions that meet the needs of clients and users, while also ensuring that applications are scalable, maintainable, and accessible.
 
 - ✉️  You can contact me at [hiafraan@gmail.com](mailto:hiafraan@gmail.com)
-- 🧠  A Lifelong Learner, Currently Learning Artificial Intelligence and Cloud Computing.
+- ❤️ Passionate coder.
 
 ### Skills
 
