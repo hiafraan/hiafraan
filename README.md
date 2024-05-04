@@ -7,7 +7,7 @@
 - 🛠️ Skilled in Python (Django), Java (Spring Boot), and Node.js (Express.js) for server-side development.
 - 🗃️ Familiar with databases like MySQL, PostgreSQL, and MongoDB.
 - ✉️ You can contact me at [hiafraan@gmail.com](mailto:hiafraan@gmail.com).
-- ❤️ Passionate coder.
+- 😉 Why do programmers prefer dark mode? Because light attracts bugs!
 
 ### Skills
 
