@@ -1,13 +1,12 @@
 # Hello and Welcome 👋, I'm Afraan Mohamed
 
-## Passionate Coder
+## Software Engineer
 
 - 💻 Proficient in HTML, CSS (Sass), and JavaScript.
-- 📱 Experienced in React (Redux) for web and React Native for mobile app development.
-- 🛠️ Skilled in Python (Django), Java (Spring Boot), and Node.js (Express.js) for server-side development.
+- 📱 Experienced in React (Redux) for web, Next.js for server-side rendering (SSR), and React Native for mobile app development.
+- 🛠️ Skilled in Python (Django), Java (Spring Boot), Node.js (Express.js), and PHP (Laravel) for server-side development.
 - 🗃️ Familiar with databases like MySQL, PostgreSQL, and MongoDB.
 - ✉️ You can contact me at [hiafraan@gmail.com](mailto:hiafraan@gmail.com).
-- 😉 Why do programmers prefer dark mode? Because light attracts bugs!
 
 ### Skills
 
